@@ -1,0 +1,46 @@
+.text-alignment{
+  text-align: center;
+
+}
+
+.body-class {
+  color: white;
+  text-align:center;
+  margin-top:100px;
+}
+
+.contact-body-class {
+background-color: #41f4c7;
+
+}
+
+.link-font-class {
+  color:white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a{
+  padding:5px;
+  margin:0px;
+  text-decoration:none;
+
+}
+a:link {
+    color: yellow;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
